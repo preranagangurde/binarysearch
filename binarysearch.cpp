@@ -39,3 +39,4 @@ int main()
         cout<<target<<" is present in the array at position "<<pos<<endl;
         
     return 0;
+}
